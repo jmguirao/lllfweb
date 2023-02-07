@@ -1,2 +1,2 @@
 # lllfweb
-Web para le Laboratorio de Ligüístca Informática
+Web para el Laboratorio de Ligüístca Informática
