@@ -13,5 +13,6 @@ Bajarse directorio:
 Ejecutar el servidor:
 
 ```
+> cd web
 > node server.js
 ```
